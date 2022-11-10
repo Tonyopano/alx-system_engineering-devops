@@ -1,1 +1,1 @@
-my read me file
+Shell projects and engeering deveps
