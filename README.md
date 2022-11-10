@@ -1,1 +1,1 @@
-Shell projects and engeering deveps
+Shell projects and engeering devops
