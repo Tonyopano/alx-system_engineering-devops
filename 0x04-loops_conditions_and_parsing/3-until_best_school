@@ -1,4 +1,4 @@
-#!/bin/bash/env bash
+#!/user/bin/bash/env bash
 # Displaying "Best School" 10 times in stdout
 
 index=0

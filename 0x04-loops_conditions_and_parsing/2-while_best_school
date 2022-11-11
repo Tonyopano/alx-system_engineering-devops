@@ -1,4 +1,4 @@
-#!/bin/env bash
+#!/user/bin/env bash
 # Displaying "Best school" in stdout 10 times
 
 while [ $index -lt 10]
