@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+# Display "Best School" 9 times then printing "Hi" on the 10th line
+
+index=0
+
+while [ $index -lt 10 ]
+do
+	if [ $index -eq 9 ]
+	then
+		echo "Hi"
+	if
+	echo "Best School"
+	((index++))
+done
