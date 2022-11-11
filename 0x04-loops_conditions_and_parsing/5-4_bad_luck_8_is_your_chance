@@ -17,8 +17,9 @@ do
 	
 	else
 		echo "Best School"
+	fi
 
-	((index++))
+	(( index++ ))
 done		
 
 
