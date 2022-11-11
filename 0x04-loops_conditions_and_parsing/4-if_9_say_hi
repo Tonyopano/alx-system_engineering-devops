@@ -8,7 +8,7 @@ do
 	if [ $index -eq 9 ]
 	then
 		echo "Hi"
-	if
+	fi
 	echo "Best School"
 	((index++))
 done
