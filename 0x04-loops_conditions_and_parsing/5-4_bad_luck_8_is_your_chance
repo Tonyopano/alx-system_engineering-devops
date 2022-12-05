@@ -3,15 +3,15 @@
 # Displaying "good luck" on 8th iter
 # Displaying "Best School" for remaining iters
 
-index=0
+count=0
 
-while [ $index -lt 10 ]
+while [ $count -lt 10 ]
 do
-	if [ $index -eq 4 ]
+	if [ $count -eq 4 ]
 	then
 		echo "bad luck"
 
-	elif [ $index -eq 8 ]
+	elif [ $count -eq 8 ]
 	then
 		echo "good luck"
 	
